@@ -1,0 +1,7 @@
+# Ignore Python cache and model files
+__pycache__/
+*.pyc
+eurosat_cnn_model.h5
+checkpoint/
+.ipynb_checkpoints/
+.DS_Store
